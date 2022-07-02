@@ -11,8 +11,24 @@ Course carried out for the introduction to the use of angular, bootstrap and bac
   
   <hr>
   
+  <h2>How to Start:</h2>
+ <div>
+    <ol>
+      <li>Go to Node.JS command prompt.</li>
+      <li>Find the path to the 'server' folder in the branch 'server' (using 'cd').</li>
+      <li>Run the code 'node serve.js' - It will retrieve a message 'Server Started!'</li>
+      <li>Go to your IDE (In my case Visual Studio Code).</li>
+      <li>Find the path to the 'course-manager' folder (using 'cd' in visual studio terminal).</li>
+      <li>Run the code 'ng serve' - It will complie and retrieve a link to a localhost that you can enter with CTRL+.</li>
+    <ol>
+ </div>
+   
+ <p>After the tutorial of how to start, this is going to be the application.</p>
+   
+ <hr>
+  
   <h2>Example:</h2>
   
-![CourseManager - Mozilla Firefox - 1 July 2022](https://user-images.githubusercontent.com/106601261/176987597-834fedb2-66f5-481d-aa40-f1b80515ac47.gif)
+![gif](https://user-images.githubusercontent.com/106601261/177005057-fb49e38f-2888-40f1-915a-3c35635dc8d9.gif)
 
 </div>
