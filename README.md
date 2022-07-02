@@ -28,7 +28,9 @@ Course carried out for the introduction to the use of angular, bootstrap and bac
  <hr>
   
   <h2>Example:</h2>
-  
+ 
+<p>Play the gif:<p>
+      
 ![gif](https://user-images.githubusercontent.com/106601261/177005057-fb49e38f-2888-40f1-915a-3c35635dc8d9.gif)
 
 </div>
