@@ -19,7 +19,7 @@ Course carried out for the introduction to the use of angular, bootstrap and bac
       <li>Run the code 'node serve.js' - It will retrieve a message 'Server Started!'</li>
       <li>Go to your IDE (In my case Visual Studio Code).</li>
       <li>Find the path to the 'course-manager' folder (using 'cd' in visual studio terminal).</li>
-      <li>Run the code 'ng serve' - It will complie and retrieve a link to a localhost that you can enter with CTRL+.</li>
+      <li>Run the code 'ng serve' - It will compile and retrieve a link to a localhost that you can enter with by pressing 'CTRL' + '+' and clicking the link.</li>
     <ol>
  </div>
    
